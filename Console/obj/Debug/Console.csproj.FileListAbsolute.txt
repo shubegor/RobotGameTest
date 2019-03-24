@@ -1,0 +1,9 @@
+c:\users\egor\source\repos\Game.Logic\Console\bin\Debug\Console.exe.config
+c:\users\egor\source\repos\Game.Logic\Console\bin\Debug\Console.exe
+c:\users\egor\source\repos\Game.Logic\Console\bin\Debug\Console.pdb
+c:\users\egor\source\repos\Game.Logic\Console\bin\Debug\Game.Logic.dll
+c:\users\egor\source\repos\Game.Logic\Console\bin\Debug\Game.Logic.pdb
+c:\users\egor\source\repos\Game.Logic\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\users\egor\source\repos\Game.Logic\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+c:\users\egor\source\repos\Game.Logic\Console\obj\Debug\Console.exe
+c:\users\egor\source\repos\Game.Logic\Console\obj\Debug\Console.pdb

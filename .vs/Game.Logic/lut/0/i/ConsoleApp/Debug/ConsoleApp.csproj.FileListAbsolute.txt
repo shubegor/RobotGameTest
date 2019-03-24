@@ -1,0 +1,7 @@
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\Console\bin\Debug\Console.exe.config
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\Console\bin\Debug\Console.exe
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\Console\bin\Debug\Console.pdb
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\ConsoleApp\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\ConsoleApp\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\ConsoleApp\Debug\Console.exe
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\ConsoleApp\Debug\Console.pdb

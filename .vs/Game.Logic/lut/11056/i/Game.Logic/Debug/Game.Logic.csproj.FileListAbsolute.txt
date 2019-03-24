@@ -1,0 +1,6 @@
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\Game.Logic\bin\Debug\Game.Logic.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\Game.Logic\bin\Debug\Game.Logic.pdb
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\Game.Logic\Debug\Game.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\Game.Logic\Debug\Game.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\Game.Logic\Debug\Game.Logic.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\Game.Logic\Debug\Game.Logic.pdb

@@ -1,0 +1,12 @@
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\b\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\UnitTest\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\UnitTest\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\UnitTest\Debug\UnitTest.dll
+C:\Users\Egor\Documents\RobotGameTest\.vs\Game.Logic\lut\0\i\UnitTest\Debug\UnitTest.pdb
